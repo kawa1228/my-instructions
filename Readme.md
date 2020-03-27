@@ -38,7 +38,8 @@
     - Ruby（Ruby on Rails）
 - Infrastructure
     - Firebase
-        - Hosting/Authentication/Storage/RealtimeDatabase/CloudFirestore
+        - Hosting/Authentication/Storage
+        - RealtimeDatabase/CloudFirestore
     - GCP（CloudRun/ContainerRegistry）
 
 ## 得意・好きなこと
