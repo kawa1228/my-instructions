@@ -27,6 +27,7 @@
     - MySQL
 - Infrastructure
     - Docker
+    - AWS（S3/EC2/Route53/ElasticIP）
 
 ### 触ったことある
 業務で使ったことがなく自習レベル
@@ -37,6 +38,8 @@
     - Ruby（Ruby on Rails）
 - Infrastructure
     - Firebase
+        - Hosting/Authentication/Storage/RealtimeDatabase/CloudFirestore
+    - GCP（CloudRun/ContainerRegistry）
 
 ## 得意・好きなこと
 - 楽しいこと
