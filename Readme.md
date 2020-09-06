@@ -14,6 +14,8 @@
     - JavaScript
         - jQuery
         - Vue.js/VueRouter/Vuex/Nuxt.js
+- Backend
+    - PHP（Laravel）    
 
 ### 要フォロー
 業務で触ったことがあるが要フォローレベル
@@ -23,7 +25,6 @@
 - Frontend
     - TypeScript
 - Backend
-    - PHP（Laravel）
     - MySQL
 - Infrastructure
     - Docker
@@ -48,7 +49,7 @@
 
 ## 嫌い・苦手なこと
 - 争うこと・口論
-- 細かい管理をされること（束縛）
+- 思想について話し合うこと
 
 ## 知っておいてほしいこと
 - 低血圧のため朝のテンションは低め
